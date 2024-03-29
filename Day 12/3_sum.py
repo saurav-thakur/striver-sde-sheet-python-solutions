@@ -1,3 +1,4 @@
+# Time complexity O(N^3)
 class Solution:
     def threeSum(self, nums: List[int]) -> List[List[int]]:
         
